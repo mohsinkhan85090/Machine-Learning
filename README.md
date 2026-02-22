@@ -1,4 +1,4 @@
-# Machine Learning & NLP: Theory to Implementation 🚀
+# Machine Learning & NLP: Theory to Implementation
 
 Welcome to my repository for **Machine Learning** and **Natural Language Processing**. This space is a dedicated resource for learning through **detailed notes**, **key topic explanations**, and **practical program implementations**.
 
