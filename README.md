@@ -2,7 +2,7 @@
 
 Welcome to my repository for **Machine Learning** and **Natural Language Processing**. This space is a dedicated resource for learning through **detailed notes**, **key topic explanations**, and **practical program implementations**.
 
-## 📑 Table of Contents
+## Table of Contents
 * [About the Repository](#about-the-repository)
 * [Tech Stack](#tech-stack)
 * [Repository Structure](#repository-structure)
